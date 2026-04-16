@@ -11,3 +11,5 @@ En este repo encontrarás los recursos necesarios para seguir las sesiones:
 ## Acceso a Google Colab
 Para que no tengáis que configurar entornos locales, podéis ejecutar el código directamente en la nube. Haz clic en el siguiente enlace para abrir el cuaderno de trabajo:
 https://colab.research.google.com/drive/1TBOyQS6bqeoUEfl70J1903G8MoF6FRO_?usp=sharing
+
+![CUNEF](https://images.griddo.cunef.edu/logo-cunef-universidad-1272515f-17b3-4169-8bf6-ef63bfffe920)
