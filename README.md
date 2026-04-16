@@ -1,5 +1,5 @@
-# Refuerzo de Python ![CUNEF](https://images.griddo.cunef.edu/logo-cunef-universidad-1272515f-17b3-4169-8bf6-ef63bfffe920)
-
+![CUNEF](https://images.griddo.cunef.edu/logo-cunef-universidad-1272515f-17b3-4169-8bf6-ef63bfffe920)
+# Refuerzo de Python
 ¡Bienvenidos al repositorio de apoyo para el curso de Python! Este espacio está diseñado para centralizar todo el material didáctico y facilitar vuestro aprendizaje práctico.
 
 ## Contenido del Repositorio
